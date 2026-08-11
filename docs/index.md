@@ -1,5 +1,3 @@
-# BookHub API Documentation
-
 Welcome to the BookHub API Documentation.
 
 This documentation helps developers understand how to integrate with the BookHub REST API.
