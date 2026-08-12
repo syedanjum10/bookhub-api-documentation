@@ -7,4 +7,4 @@ This documentation helps developers understand how to integrate with the BookHub
 - [Authentication](authentication.md)
 - [Books API](books.md)
 - [Orders API](orders.md)
-- Error Codes
+- [Error Codes](errors.md)
