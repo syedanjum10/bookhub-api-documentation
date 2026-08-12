@@ -12,7 +12,7 @@ Include the access token in the `Authorization` header using the Bearer authenti
 
 ```http
 Authorization: Bearer YOUR_ACCESS_TOKEN
-```git st
+```
 
 ## Example Request
 
