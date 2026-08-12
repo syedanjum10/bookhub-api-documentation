@@ -13,9 +13,10 @@ This guide explains how to make requests to the API and understand the responses
 The BookHub API uses the request response model.
 A client sends a request to an API endpoint, and the API processes the request and returns a response.
 
-For example:
+Example:
 
 ```http
 GET /books
+```
 
 This request retrieves books from the BookHub catalog.

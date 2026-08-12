@@ -28,13 +28,14 @@ Authorization: Bearer YOUR_ACCESS_TOKEN
 ```
 
 ### Example Response
-
+```json
 {
     "books":[
         {
             "id": 1,
             "title": "The Alchemist",
-            "Author": "Paul Ceoulho"
+            "author": "Paulo Coelho"
         }
     ]    
 }
+```
