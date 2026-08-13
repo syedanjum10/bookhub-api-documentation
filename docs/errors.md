@@ -39,14 +39,14 @@ When an API request fails, the BookHub API returns an error response in JSON for
 ### 400 Bad Request
 The server cannot process the request because the request contains invalid or missing information.
 
-</>JSON
+```json
 {
     "error": {
         "code": "INVALID_REQUEST",
         "message": "The request contains invalid parameters."
     }
 }
-
+``` 
 ### 401 Unauthorized
 The request requires a valid access token.
 
