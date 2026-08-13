@@ -32,13 +32,14 @@ When an API request fails, the BookHub API returns an error response in JSON for
         "message": "The requested book could not be found."
     }
 }
+```
 
 ## Common Errors
 
-### 404 Bad Request
+### 400 Bad Request
 The server cannot process the request because the request contains invalid or missing information.
 
-</JSON>
+</>JSON
 {
     "error": {
         "code": "INVALID_REQUEST",
@@ -80,3 +81,4 @@ An unexpected error occured while processing the request
     "message": "An unexpected error occurred. Please try again later."
   }
 }
+```
